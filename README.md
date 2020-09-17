@@ -6,6 +6,7 @@ Aluno Heitor Miranda
 
 [link de referência da linguagem markdown](https://www.markdown.net.br/)
 
-### Inserindo uma imagem
+### Inserindo uma imagem ~deumpokemão~
 
-![Among Us](https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-black-and-white/c/cc/Pokemans_591.gif)
+
+![Amoonguss](https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-black-and-white/c/cc/Pokemans_591.gif)
