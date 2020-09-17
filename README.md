@@ -8,4 +8,4 @@ Aluno Heitor Miranda
 
 ### Inserindo uma imagem
 
-![Among Us](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.serebii.net%2Fpokedex-swsh%2Famoonguss&psig=AOvVaw3eOhLvZqbcrZs5TH6260uc&ust=1600455066718000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiPh7bu8OsCFQAAAAAdAAAAABAI)
+![Among Us](https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-black-and-white/c/cc/Pokemans_591.gif)
