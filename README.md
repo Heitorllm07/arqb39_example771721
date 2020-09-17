@@ -9,4 +9,4 @@ Aluno Heitor Miranda
 ### Inserindo uma imagem ~aleatória~
 
 
-![Random](https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80 ./pic/pic1s.png =50x)
+![Random](https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
