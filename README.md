@@ -9,4 +9,4 @@ Aluno Heitor Miranda
 ### Inserindo uma imagem ~deumpokemão~
 
 
-![Amoonguss](https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-black-and-white/c/cc/Pokemans_591.gif)
+![Amoonguss](https://img.pokemondb.net/artwork/garchomp.jpg)
